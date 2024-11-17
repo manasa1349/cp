@@ -52,3 +52,9 @@ int main(){
         printf("%d ",jobid[i]);
     }
 }
+/*
+    Job job[]={{1, 4, 20}, {2, 1, 1}, {3, 1, 40}, {4, 1, 30}};
+    MaxProfit: 60
+    No.of Jobs: 2
+    Jobs done are:3 1 
+*/
