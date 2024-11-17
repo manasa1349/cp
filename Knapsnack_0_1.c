@@ -34,3 +34,4 @@ int main()
     printf("Maximum profit: %d\n", knapSack(cap, weight, profit, n)); 
     return 0; 
 } 
+// ans 50
